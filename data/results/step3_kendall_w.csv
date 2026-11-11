@@ -1,0 +1,3 @@
+stage_set,stages,n_configurations,kendall_w,scope
+five_stage_primary,H1_within_framework;H1_matched_framework;H1_matched_hef;H2_framework;H2_hef,11,0.5003636363636363,descriptive concordance; five-stage set explicitly specified here
+six_stage_sensitivity,H1_all_framework;H1_within_framework;H1_matched_framework;H1_matched_hef;H2_framework;H2_hef,11,0.5510101010101011,descriptive concordance; five-stage set explicitly specified here

@@ -1,0 +1,6 @@
+# Preserve exact manifest-covered bytes on every platform.
+* -text
+*.png binary
+*.npy binary
+*.jpg binary
+*.jpeg binary

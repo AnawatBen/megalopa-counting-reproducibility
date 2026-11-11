@@ -1,0 +1,12 @@
+configuration,framework_within_agreement_halfwidth,hef_mean_inference_call_ms,pareto,scope
+dmcount_ot_ref,83.0215932794287,215.20650043333333,True,mixed-runtime configuration comparison; sample SD agrees with Table 8
+mobilecount_gaussian,101.26101988874842,45.66048755,False,mixed-runtime configuration comparison; sample SD agrees with Table 8
+mobilecount_ot_proj,101.9590732545769,45.625111366666665,True,mixed-runtime configuration comparison; sample SD agrees with Table 8
+mobilecount_ot_proj_bayes,88.54841626227122,45.625780683333325,True,mixed-runtime configuration comparison; sample SD agrees with Table 8
+mobilecount_ot_ref,94.25847349603386,45.66967016666666,False,mixed-runtime configuration comparison; sample SD agrees with Table 8
+mobilecount_ot_ref_bayes,91.77017078725832,45.66060123333333,False,mixed-runtime configuration comparison; sample SD agrees with Table 8
+yolo26n_density_gaussian,107.32155439159133,48.633800916666665,False,mixed-runtime configuration comparison; sample SD agrees with Table 8
+yolo26n_density_ot_proj,105.64433370646503,49.1350626,False,mixed-runtime configuration comparison; sample SD agrees with Table 8
+yolo26n_density_ot_proj_bayes,92.6120003959963,48.887584833333335,False,mixed-runtime configuration comparison; sample SD agrees with Table 8
+yolo26n_density_ot_ref,88.13656037412382,48.69874051666667,False,mixed-runtime configuration comparison; sample SD agrees with Table 8
+yolo26n_density_ot_ref_bayes,87.73171439151541,48.58905503333333,True,mixed-runtime configuration comparison; sample SD agrees with Table 8

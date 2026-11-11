@@ -1,0 +1,23 @@
+configuration,runtime,n_images,mae,mean_gt,normalized_mae_pct,legacy_mean_fold_normalized_pct,definition
+dmcount_ot_ref,framework,480,41.802721945444745,730.15,5.72522385063956,3.1074084492912486,pooled matched MAE divided by common matched reference mean
+dmcount_ot_ref,hef,480,42.0250750541687,730.15,5.755676923121099,3.113897591194681,pooled matched MAE divided by common matched reference mean
+mobilecount_gaussian,framework,480,92.87986497879028,730.15,12.720655341887323,8.693523783060837,pooled matched MAE divided by common matched reference mean
+mobilecount_gaussian,hef,480,99.75609022776285,730.15,13.662410494797351,10.089916007032066,pooled matched MAE divided by common matched reference mean
+mobilecount_ot_proj,framework,480,84.60489163398742,730.15,11.587330224472701,7.9387611786666605,pooled matched MAE divided by common matched reference mean
+mobilecount_ot_proj,hef,480,83.40591219266256,730.15,11.42312020717148,7.63370737381629,pooled matched MAE divided by common matched reference mean
+mobilecount_ot_proj_bayes,framework,480,95.16487121582031,730.15,13.03360559005962,7.294695022871015,pooled matched MAE divided by common matched reference mean
+mobilecount_ot_proj_bayes,hef,480,84.33580338160196,730.15,11.550476392741487,6.7553497733422985,pooled matched MAE divided by common matched reference mean
+mobilecount_ot_ref,framework,480,72.09378536542256,730.15,9.873832139344321,5.579938493614069,pooled matched MAE divided by common matched reference mean
+mobilecount_ot_ref,hef,480,88.03637374242147,730.15,12.05729969765411,6.630787421196087,pooled matched MAE divided by common matched reference mean
+mobilecount_ot_ref_bayes,framework,480,66.1204449971517,730.15,9.055734437739053,4.92576025952749,pooled matched MAE divided by common matched reference mean
+mobilecount_ot_ref_bayes,hef,480,82.04309941927592,730.15,11.236471878281986,5.5910785450886,pooled matched MAE divided by common matched reference mean
+yolo26n_density_gaussian,framework,480,104.9560286839803,730.15,14.374584494142344,10.986619849756456,pooled matched MAE divided by common matched reference mean
+yolo26n_density_gaussian,hef,480,89.06253048578898,730.15,12.197840236360882,10.837766188979998,pooled matched MAE divided by common matched reference mean
+yolo26n_density_ot_proj,framework,480,106.20680481592814,730.15,14.545888490848201,12.11695949962103,pooled matched MAE divided by common matched reference mean
+yolo26n_density_ot_proj,hef,480,85.1808751742045,730.15,11.666215869917757,9.032196426144187,pooled matched MAE divided by common matched reference mean
+yolo26n_density_ot_proj_bayes,framework,480,80.43489937782287,730.15,11.016215760846796,5.932640205466448,pooled matched MAE divided by common matched reference mean
+yolo26n_density_ot_proj_bayes,hef,480,78.58009605407715,730.15,10.762185311795816,6.6049668022085966,pooled matched MAE divided by common matched reference mean
+yolo26n_density_ot_ref,framework,480,47.380704100926714,730.15,6.489174019164105,3.4038897745744214,pooled matched MAE divided by common matched reference mean
+yolo26n_density_ot_ref,hef,480,49.38338743845622,730.15,6.763457842697559,3.9542184587377722,pooled matched MAE divided by common matched reference mean
+yolo26n_density_ot_ref_bayes,framework,480,44.84654814402263,730.15,6.142100683972147,3.323760495632189,pooled matched MAE divided by common matched reference mean
+yolo26n_density_ot_ref_bayes,hef,480,49.877085494995114,730.15,6.831073819762394,4.005048376752562,pooled matched MAE divided by common matched reference mean

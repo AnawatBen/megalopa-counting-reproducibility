@@ -1,0 +1,12 @@
+configuration,h1_within_framework_mae,h1_within_framework_agreement_halfwidth,hef_mean_call_latency_ms,accuracy_videos,latency_checkpoints,scope
+dmcount_ot_ref,21.902519881725311,82.98915663303357,215.20650043333333,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"
+mobilecount_gaussian,26.505820393562317,101.22145707423239,45.66048755,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"
+mobilecount_ot_proj,26.713869094848629,101.91923770968675,45.625111366666665,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"
+mobilecount_ot_proj_bayes,22.487443232536314,88.51382027882049,45.625780683333325,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"
+mobilecount_ot_ref,24.234664857387543,94.22164658566317,45.66967016666666,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"
+mobilecount_ot_ref_bayes,23.20811544656754,91.73431606004986,45.66060123333333,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"
+yolo26n_density_gaussian,33.624515044689176,107.27962371822233,48.633800916666665,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"
+yolo26n_density_ot_proj,33.765682208538053,105.60305832543794,49.1350626,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"
+yolo26n_density_ot_proj_bayes,24.804709255695343,92.57581676484533,48.887584833333335,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"
+yolo26n_density_ot_ref,23.402452337741853,88.10212530331381,48.69874051666667,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"
+yolo26n_density_ot_ref_bayes,23.584020733833313,87.69743749456671,48.58905503333333,8,2;8;10,"configuration-level mixed-runtime trade-off; framework agreement versus HEF call timing, not eight-fold device accuracy"

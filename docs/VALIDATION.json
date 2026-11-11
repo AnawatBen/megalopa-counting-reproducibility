@@ -1,0 +1,15 @@
+{
+  "status": "local_functional_validation_passed",
+  "numerical_reference_tables": 46,
+  "csv_files_numeric_cells_compared": 94,
+  "table2_csv_byte_identical": true,
+  "source_zip_sha256": "46404a1617b67905fc9b74c3aa8311b1ba92716abc49305f04ee867a1ae7b878",
+  "new_browser_colab_run": false,
+  "remaining_scan_matches": [],
+  "source_parts_reassembled_and_sha256_verified": true,
+  "source_parts": [
+    "Phase1_Manuscript_Reproduction_Source.zip.part01",
+    "Phase1_Manuscript_Reproduction_Source.zip.part02",
+    "Phase1_Manuscript_Reproduction_Source.zip.part03"
+  ]
+}

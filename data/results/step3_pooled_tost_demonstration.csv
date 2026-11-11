@@ -1,0 +1,2 @@
+n,n_configurations,margin,bias,ci90_lower,ci90_upper,tost_p,nominal_mean_pass,nominal_loa_lower,nominal_loa_upper,nominal_bounds_pass,joint_pass,scope
+39963,11,20.37278349817098,-7.8558426991515615,-8.065411023939644,-7.646274374363479,0.0,True,-57.77571090645979,42.064025508156675,False,False,misleading pooled demonstration only; dependent records and unlike configurations; not an equivalence claim

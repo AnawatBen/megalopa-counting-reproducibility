@@ -1,0 +1,156 @@
+{
+  "status": "verified_from_logs_and_photo_transcription",
+  "archive_sha256": "65ae250cb530d371daec105e4aa0ed70dbc6dc642aa1346b840fb47e2a01b886",
+  "captures": 360,
+  "captures_per_block": 120,
+  "energy_wh": 30.0,
+  "reading_interval_s": 3597.488,
+  "interval_average_w_unrounded": 30.020947950347576,
+  "reported_interval_average_w": "approximately 30",
+  "snapshot_min_w": 29.4,
+  "snapshot_max_w": 30.0,
+  "mean_capture_to_count_text_ms": 1030.5792136944117,
+  "full_session_net_energy_kwh": null,
+  "initial_reading_available": false,
+  "meter_metadata": {
+    "schema": "whole_station_meter_transcription_v1",
+    "method": "Manual visual transcription of original photographs; energy photo times from EXIF DateTimeOriginal, subsecond and offset.",
+    "readings": [
+      {
+        "approx_elapsed_min": 10,
+        "power_w": 29.4,
+        "cumulative_kwh": 0.004,
+        "power_photo": "IMG_1627.HEIC",
+        "energy_photo": "IMG_1628.HEIC",
+        "energy_photo_time": "2026-11-11T15:09:00.317+07:00"
+      },
+      {
+        "approx_elapsed_min": 20,
+        "power_w": 30.0,
+        "cumulative_kwh": 0.009,
+        "power_photo": "IMG_1629.HEIC",
+        "energy_photo": "IMG_1630.HEIC",
+        "energy_photo_time": "2026-11-11T15:19:04.680+07:00"
+      },
+      {
+        "approx_elapsed_min": 40,
+        "power_w": 29.4,
+        "cumulative_kwh": 0.019,
+        "power_photo": "IMG_1631.HEIC",
+        "energy_photo": "IMG_1632.HEIC",
+        "energy_photo_time": "2026-11-11T15:39:02.210+07:00"
+      },
+      {
+        "approx_elapsed_min": 60,
+        "power_w": 29.4,
+        "cumulative_kwh": 0.029,
+        "power_photo": "IMG_1633.HEIC",
+        "energy_photo": "IMG_1634.HEIC",
+        "energy_photo_time": "2026-11-11T15:59:06.239+07:00"
+      },
+      {
+        "approx_elapsed_min": 80,
+        "power_w": 30.0,
+        "cumulative_kwh": 0.039,
+        "power_photo": "IMG_1635.HEIC",
+        "energy_photo": "IMG_1636.HEIC",
+        "energy_photo_time": "2026-11-11T16:19:02.168+07:00"
+      },
+      {
+        "approx_elapsed_min": 85,
+        "power_w": 30.0,
+        "cumulative_kwh": 0.041,
+        "power_photo": "IMG_1637.HEIC",
+        "energy_photo": "IMG_1638.HEIC",
+        "energy_photo_time": "2026-11-11T16:24:29.991+07:00"
+      }
+    ],
+    "meter": "Generic LCD plug-in energy meter; model not identified",
+    "manufacturer_stated_accuracy_percent": 2,
+    "energy_display_increment_wh": 1,
+    "power_display_increment_w": 0.1,
+    "initial_energy_reading_available": false,
+    "continuous_video_available": false,
+    "boundary": "Pi/Hailo, LED and display powered through meter; fan/open case, official Pi PSU, room 25 C, stationary printed photograph.",
+    "photo_sha256": {
+      "IMG_1627.HEIC": "f22350ae7f43d414f50d7989ebe1210af4d9aff7854badbaf83c7cd25f41226f",
+      "IMG_1628.HEIC": "df4f95e42f5fe30890edcaf8e6ea87339251713be57f9c80789302aedbb8b532",
+      "IMG_1629.HEIC": "b832009e34d405169b19f2cc39589bc8bd7d363e2e950a4310aa638a017906b5",
+      "IMG_1630.HEIC": "d9a9bb4de12b0bed922a4ccbb85651b4e797b4ae0a7a84eb7dc7d75e149b7c3e",
+      "IMG_1631.HEIC": "3ae27d5df84779e070759b2a2c8687f54b36f963f4a14833ef1b30a214d06148",
+      "IMG_1632.HEIC": "01256b7da84db6ac3a602bef01d764a933b486eddf62f4aace58572b2fe5ef80",
+      "IMG_1633.HEIC": "cc177bcbae86f04aac1f9d7b745f674e179d0efc6cd65f078afaa37e666a32ff",
+      "IMG_1634.HEIC": "623597d31ad1821152225ef14b27fab555f90b894b5d40da4fa885dd8d6c9feb",
+      "IMG_1635.HEIC": "47b9a556f63d735a88cab33462cb68cacc6a6c8c5ffc578b6380a0366d881e26",
+      "IMG_1636.HEIC": "67aa3240999261d73d05a780cef559c5cc932c44d6bec3ac577a31077b6d3dca",
+      "IMG_1637.HEIC": "651a0e72cfe7e89f58702bc30c1d6e59ebde307a92b1f30f0c54ccff77c9a78d",
+      "IMG_1638.HEIC": "906f715890ba34480651e9483dcb8c2e07989683d62dc21931edafd13f0a9e79"
+    }
+  },
+  "protocol": {
+    "schema": "whole_station_power_schedule_v1",
+    "mode": "full",
+    "notes": "Powered through meter: Pi/Hailo, LED and display.\nCooling: fan; case: open; PSU: official Pi supply.\nRoom temperature: 25.\nScene: same stationary printed megalopa photograph.\nLED and display settings: see the screen capture.",
+    "stages": [
+      [
+        "warmup",
+        600,
+        0
+      ],
+      [
+        "ready_baseline",
+        600,
+        0
+      ],
+      [
+        "counting_1",
+        1200,
+        120
+      ],
+      [
+        "counting_2",
+        1200,
+        120
+      ],
+      [
+        "counting_3",
+        1200,
+        120
+      ],
+      [
+        "ready_recovery",
+        300,
+        0
+      ]
+    ],
+    "interval_s": 10.0,
+    "maximum_schedule_lateness_s": 2.0,
+    "planned_captures": 360,
+    "expected_hef_sha256": "767e0cfc7808f0f3aa1c4b95f507c4b83f0987d112a68b69c574fc478e3ffbff",
+    "script_sha256": "a2cfd0fb351ceea95fd0b07ebcfdd0148080ab9aadbe8c97f07dbddd8379ac10",
+    "animation_configured_s": 0.7,
+    "boundary": "External wall-input measurement of declared connected station; meter records supplied separately",
+    "workload": "Camera preview plus scheduled captures and existing animation/logging; no Save clicks",
+    "timing_note": "Capture scheduling includes per-capture hash checks and instrumentation overhead",
+    "start_monotonic_s": 1392.181351174,
+    "start_utc": "2026-11-11T07:58:54.704538+00:00"
+  },
+  "application_summary": {
+    "status": "complete",
+    "reason": "Schedule ended; completed 360/360 captures",
+    "completed": 360,
+    "requested": 360,
+    "planned": 360,
+    "elapsed_s": 5100.098435475,
+    "end_utc": "2026-11-11T09:23:54.800135+00:00",
+    "external_meter_data_required": true
+  },
+  "caveats": [
+    "One session; three consecutive blocks are not independent replicates.",
+    "Meter accuracy is manufacturer-stated, not independently calibrated; 1 Wh energy display increment.",
+    "Photo times approximately bracket counting, not exact phase boundaries; phone/Pi clock offset not independently measured.",
+    "Final 0.041 kWh is a displayed cumulative reading, not verified net 85-minute energy.",
+    "Six W snapshots do not establish continuous minimum, maximum or peak power.",
+    "Station overhead, preview, animation and instrumentation included; not isolated inference energy."
+  ]
+}

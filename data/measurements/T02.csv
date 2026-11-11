@@ -1,0 +1,13 @@
+Component,Specification / pricing basis,Quantity,Unit price (THB),Line cost (THB),Line cost (USD)
+Processing board,"Raspberry Pi 5, 8 GB RAM",1 pc,"6,488.00","6,488.00",200.25
+AI accelerator,"Raspberry Pi AI Kit, Hailo-8L, 13 TOPS",1 pc,"2,950.00","2,950.00",91.05
+Camera and lens,"Raspberry Pi Camera Module 3, standard 75 deg",1 pc,"1,050.00","1,050.00",32.41
+Acrylic tray,"Clear acrylic sheet 30x30 cm, 5 mm (material only)",1 sheet,75.00,75.00,2.31
+Illumination and diffuser,"EVE square LED panel, 24 W, 6500 K, 1920 lm (installed label)",1 pc,330.00,330.00,10.19
+Mount / enclosure,Aluminium profile 2020 T-slot,4.1 m,180.00,738.00,22.78
+Mount / enclosure,"Brackets, T-nuts and screws (allowance)",1 set,369.00,369.00,11.39
+Power supply / cables,Official Raspberry Pi 27 W USB-C PD power supply,1 pc,480.00,480.00,14.81
+Storage,Official Raspberry Pi 64 GB A2 microSD,1 pc,780.00,780.00,24.07
+Cooling,Official Raspberry Pi 5 Active Cooler,1 pc,210.00,210.00,6.48
+Display / interface,"Raspberry Pi Touch Display 2, 7 inch",1 pc,"2,514.50","2,514.50",77.61
+Estimated total,,,,"15,984.50",493.35

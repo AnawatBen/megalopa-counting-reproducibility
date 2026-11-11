@@ -1,0 +1,2 @@
+unit,within_folds,n_within,n_outside,within_mean,outside_mean,within_sd,outside_sd,cliffs_delta_within_minus_outside,ties,scope
+configuration-fold cell,1;2;3;4;5;6;7;9,88,22,0.6535627560865938,0.904329116892641,0.32892906631995766,0.19831912170660282,-0.5423553719008265,210,descriptive related cells; no independence-based p value

@@ -1,0 +1,5 @@
+selection_group,configuration,mae,population,runtime,criterion,n_images,n_loads
+MobileCount,mobilecount_ot_proj_bayes,22.487443232536314,H1_within,framework,minimum within-range MAE; alphabetical tie break,1280,8
+YOLO26n-density,yolo26n_density_ot_ref,23.402452337741853,H1_within,framework,minimum within-range MAE; alphabetical tie break,1280,8
+DM-Count,dmcount_ot_ref,21.902519881725311,H1_within,framework,minimum within-range MAE; alphabetical tie break,1280,8
+compact,mobilecount_ot_proj_bayes,22.487443232536314,H1_within,framework,minimum within-range MAE; alphabetical tie break,1280,8

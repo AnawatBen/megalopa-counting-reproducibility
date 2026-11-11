@@ -1,0 +1,2 @@
+n_images,difference,mae,rmse,bias,sample_sd,descriptive_lower,descriptive_upper,scope
+15,repeat minus original,22.6,43.40122886125077,13.0,42.86190449738389,-71.00933281487242,97.00933281487242,same-person assisted repeat; separate population; not physical truth or universal noise floor

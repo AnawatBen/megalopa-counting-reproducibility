@@ -1,0 +1,12 @@
+configuration,artifact_id,n_images,n_loads,bias,agreement_halfwidth,mean_latency_ms,pareto_halfwidth_latency,scope
+dmcount_ot_ref,dmcount_ot_ref__fold_02__seed_68390475,160,1,-2.9675294876098546,9.6145855624860896,215.35103155000002,True,"configured.run only; excludes decode, preprocess, setup and map summation"
+mobilecount_gaussian,mobilecount_gaussian__fold_02__seed_68390475,160,1,9.1500558853149432,13.553196104302071,45.656112550000003,False,"configured.run only; excludes decode, preprocess, setup and map summation"
+mobilecount_ot_proj,mobilecount_ot_proj__fold_02__seed_68390475,160,1,11.357447624206548,13.999268344647053,45.625008599999994,False,"configured.run only; excludes decode, preprocess, setup and map summation"
+mobilecount_ot_proj_bayes,mobilecount_ot_proj_bayes__fold_02__seed_68390475,160,1,-4.4745965957641509,9.9303351430741387,45.639996149999995,True,"configured.run only; excludes decode, preprocess, setup and map summation"
+mobilecount_ot_ref,mobilecount_ot_ref__fold_02__seed_68390475,160,1,-4.6690166473388572,10.298850524712297,45.632942150000005,True,"configured.run only; excludes decode, preprocess, setup and map summation"
+mobilecount_ot_ref_bayes,mobilecount_ot_ref_bayes__fold_02__seed_68390475,160,1,-1.82808723449706,10.465054638455245,45.621829800000008,True,"configured.run only; excludes decode, preprocess, setup and map summation"
+yolo26n_density_gaussian,yolo26n_density_gaussian__fold_02__seed_68390475,160,1,-19.743805694580068,10.555572140549559,48.644716750000008,False,"configured.run only; excludes decode, preprocess, setup and map summation"
+yolo26n_density_ot_proj,yolo26n_density_ot_proj__fold_02__seed_68390475,160,1,19.631346130371089,10.773683896890873,49.916027699999994,False,"configured.run only; excludes decode, preprocess, setup and map summation"
+yolo26n_density_ot_proj_bayes,yolo26n_density_ot_proj_bayes__fold_02__seed_68390475,160,1,-9.7371805191039904,10.54181527265526,48.640485249999998,False,"configured.run only; excludes decode, preprocess, setup and map summation"
+yolo26n_density_ot_ref,yolo26n_density_ot_ref__fold_02__seed_68390475,160,1,-13.557648086547845,10.348670047586708,48.6389882,False,"configured.run only; excludes decode, preprocess, setup and map summation"
+yolo26n_density_ot_ref_bayes,yolo26n_density_ot_ref_bayes__fold_02__seed_68390475,160,1,-10.859459114074699,10.601173501383254,48.572617749999999,False,"configured.run only; excludes decode, preprocess, setup and map summation"

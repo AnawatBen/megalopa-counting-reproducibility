@@ -1,0 +1,5 @@
+stage_a,stage_b,configuration_set,n,spearman_rho,scope
+H1_within_framework,H2_framework,all11,11,-0.08181818181818183,descriptive; no population p value
+H1_within_framework,H2_framework,compact10,10,-0.4424242424242424,descriptive; no population p value
+H1_matched_hef,H2_hef,all11,11,0.13636363636363638,descriptive; no population p value
+H1_matched_hef,H2_hef,compact10,10,-0.1515151515151515,descriptive; no population p value

@@ -1,0 +1,12 @@
+configuration,naive_mean_tost,naive_frame_bounds_inside,naive_joint_criterion,conditional_checkpoint_mean_tost_count,checkpoint_descriptive_frame_bounds_inside_count
+dmcount_ot_ref,True,True,True,3,3
+mobilecount_gaussian,True,False,False,2,1
+mobilecount_ot_proj,True,True,True,3,3
+mobilecount_ot_proj_bayes,True,False,False,3,2
+mobilecount_ot_ref,True,False,False,2,2
+mobilecount_ot_ref_bayes,True,False,False,2,1
+yolo26n_density_gaussian,False,False,False,0,0
+yolo26n_density_ot_proj,True,False,False,0,0
+yolo26n_density_ot_proj_bayes,False,False,False,1,0
+yolo26n_density_ot_ref,True,False,False,2,0
+yolo26n_density_ot_ref_bayes,True,False,False,3,1

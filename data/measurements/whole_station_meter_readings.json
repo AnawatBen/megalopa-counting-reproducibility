@@ -1,0 +1,75 @@
+{
+  "schema": "whole_station_meter_transcription_v1",
+  "method": "Manual visual transcription of original photographs; energy photo times from EXIF DateTimeOriginal, subsecond and offset.",
+  "readings": [
+    {
+      "approx_elapsed_min": 10,
+      "power_w": 29.4,
+      "cumulative_kwh": 0.004,
+      "power_photo": "IMG_1627.HEIC",
+      "energy_photo": "IMG_1628.HEIC",
+      "energy_photo_time": "2026-11-11T15:09:00.317+07:00"
+    },
+    {
+      "approx_elapsed_min": 20,
+      "power_w": 30.0,
+      "cumulative_kwh": 0.009,
+      "power_photo": "IMG_1629.HEIC",
+      "energy_photo": "IMG_1630.HEIC",
+      "energy_photo_time": "2026-11-11T15:19:04.680+07:00"
+    },
+    {
+      "approx_elapsed_min": 40,
+      "power_w": 29.4,
+      "cumulative_kwh": 0.019,
+      "power_photo": "IMG_1631.HEIC",
+      "energy_photo": "IMG_1632.HEIC",
+      "energy_photo_time": "2026-11-11T15:39:02.210+07:00"
+    },
+    {
+      "approx_elapsed_min": 60,
+      "power_w": 29.4,
+      "cumulative_kwh": 0.029,
+      "power_photo": "IMG_1633.HEIC",
+      "energy_photo": "IMG_1634.HEIC",
+      "energy_photo_time": "2026-11-11T15:59:06.239+07:00"
+    },
+    {
+      "approx_elapsed_min": 80,
+      "power_w": 30.0,
+      "cumulative_kwh": 0.039,
+      "power_photo": "IMG_1635.HEIC",
+      "energy_photo": "IMG_1636.HEIC",
+      "energy_photo_time": "2026-11-11T16:19:02.168+07:00"
+    },
+    {
+      "approx_elapsed_min": 85,
+      "power_w": 30.0,
+      "cumulative_kwh": 0.041,
+      "power_photo": "IMG_1637.HEIC",
+      "energy_photo": "IMG_1638.HEIC",
+      "energy_photo_time": "2026-11-11T16:24:29.991+07:00"
+    }
+  ],
+  "meter": "Generic LCD plug-in energy meter; model not identified",
+  "manufacturer_stated_accuracy_percent": 2,
+  "energy_display_increment_wh": 1,
+  "power_display_increment_w": 0.1,
+  "initial_energy_reading_available": false,
+  "continuous_video_available": false,
+  "boundary": "Pi/Hailo, LED and display powered through meter; fan/open case, official Pi PSU, room 25 C, stationary printed photograph.",
+  "photo_sha256": {
+    "IMG_1627.HEIC": "f22350ae7f43d414f50d7989ebe1210af4d9aff7854badbaf83c7cd25f41226f",
+    "IMG_1628.HEIC": "df4f95e42f5fe30890edcaf8e6ea87339251713be57f9c80789302aedbb8b532",
+    "IMG_1629.HEIC": "b832009e34d405169b19f2cc39589bc8bd7d363e2e950a4310aa638a017906b5",
+    "IMG_1630.HEIC": "d9a9bb4de12b0bed922a4ccbb85651b4e797b4ae0a7a84eb7dc7d75e149b7c3e",
+    "IMG_1631.HEIC": "3ae27d5df84779e070759b2a2c8687f54b36f963f4a14833ef1b30a214d06148",
+    "IMG_1632.HEIC": "01256b7da84db6ac3a602bef01d764a933b486eddf62f4aace58572b2fe5ef80",
+    "IMG_1633.HEIC": "cc177bcbae86f04aac1f9d7b745f674e179d0efc6cd65f078afaa37e666a32ff",
+    "IMG_1634.HEIC": "623597d31ad1821152225ef14b27fab555f90b894b5d40da4fa885dd8d6c9feb",
+    "IMG_1635.HEIC": "47b9a556f63d735a88cab33462cb68cacc6a6c8c5ffc578b6380a0366d881e26",
+    "IMG_1636.HEIC": "67aa3240999261d73d05a780cef559c5cc932c44d6bec3ac577a31077b6d3dca",
+    "IMG_1637.HEIC": "651a0e72cfe7e89f58702bc30c1d6e59ebde307a92b1f30f0c54ccff77c9a78d",
+    "IMG_1638.HEIC": "906f715890ba34480651e9483dcb8c2e07989683d62dc21931edafd13f0a9e79"
+  }
+}
